@@ -52,6 +52,6 @@ project-1-fall-2017-distributed-wordcount-AnishPimpley created by GitHub Classro
 
 # Program Work Flow:
 
-See the _flow images.
+![flow images](https://github.com/AnishPimpley/Word_Count_with_MapReduce/blob/master/master_flow.jpg).
 
 Finer details explained inline in code
